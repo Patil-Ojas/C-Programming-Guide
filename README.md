@@ -1,8 +1,5 @@
-# C-Programming-Guide
+# C-Programming-Guide 🅒 
 Welcome to the C Programming Guide, a comprehensive resource covering the entire spectrum of C programming—from fundamental concepts to advanced techniques. 
-
-🅒  C Programming Guide 
-Welcome to the C Programming Guide—a comprehensive resource for mastering the C programming language!
 
 🌐 Overview
 This repository is designed to be your go-to reference for learning and improving your skills in C programming. Whether you're just starting or looking to deepen your understanding, you'll find resources here to guide you through every stage of your C programming journey. This guide is based off the teachings of CodeWithharry.
